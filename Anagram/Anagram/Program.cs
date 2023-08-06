@@ -5,8 +5,8 @@
         static void Main(string[] args)
         {
 
-            string word1 = "dogn";
-            string word2 = "godn";
+            string word1 = "dog";
+            string word2 = "god";
             int j = 0;
             int i = 0;
             if (word1.Length == word2.Length)
